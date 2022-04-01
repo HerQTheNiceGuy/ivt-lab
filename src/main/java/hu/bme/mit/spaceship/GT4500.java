@@ -91,7 +91,7 @@ public class GT4500 implements SpaceShip {
 
         break;
     }
-        //Brach A változtatás
+        //Brach B változtatás
     return firingSuccess;
   }
 
