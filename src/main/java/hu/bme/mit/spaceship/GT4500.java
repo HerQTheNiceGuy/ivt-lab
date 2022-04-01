@@ -91,8 +91,12 @@ public class GT4500 implements SpaceShip {
 
         break;
     }
-        //Brach FFFFFFFFFFFFFFFFFFF
+        //Brach G
     return firingSuccess;
   }
 
+<<<<<<< HEAD
 } //Brach HHHHHHHH
+=======
+}///Branch GGGG
+>>>>>>> branch-G
